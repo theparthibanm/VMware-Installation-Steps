@@ -1,4 +1,4 @@
-# VMware-Installation-Steps on Windows PC
+# VMware-Installation-Steps-on-Windows-PC
 This repository provides step-by-step instructions, screenshots, and troubleshooting tips for installing and setting up VMware Workstation/Player on a Windows PC
 
 # What is VMware Workstation?
