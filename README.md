@@ -1,9 +1,9 @@
-# VMware-Installation-Steps
+# VMware-Installation-Steps on Windows PC
 This repository provides step-by-step instructions, screenshots, and troubleshooting tips for installing and setting up VMware Workstation/Player on a Windows PC
 
-# VMware Installation on Windows PC
+# What is VMware Workstation?
 
-This repository contains detailed steps and troubleshooting tips for installing VMware Workstation/Player on a Windows PC. VMware is a powerful virtualization platform that allows you to run multiple operating systems on a single machine.
+VMware is a powerful virtualization platform that allows you to run multiple operating systems on a single machine.
 
 ---
 
@@ -109,8 +109,8 @@ Feel free to contribute by submitting issues or pull requests for improvements.
 ---
 
 ### Author
-Created by [Your Name].  
-For queries, contact at [your-email@example.com].
+Created by [Parthiban M].  
+For queries, contact at [parthibanmurugesann@gmail.com].
 
 ---
 
